@@ -1,0 +1,27 @@
+/* page 3 */
+.three_page{
+    background-color: #b2e785;
+}
+
+.three {
+    text-align: center;
+    align-items: center;
+    
+}
+
+.contact_img {
+    width: 90%;
+    height: 500px;
+    margin-top:150px;
+    padding-bottom: 60px;
+}
+
+.ct {
+    margin-top: 80px;
+    font-family: 'Roboto Slab', serif;
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    font-style: italic;
+    margin: 35px;
+}
